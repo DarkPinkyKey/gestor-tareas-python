@@ -1,0 +1,10 @@
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos local de tareas (para que cada usuario cree sus propias tareas localmente)
+tareas.txt
+
+# Entornos virtuales
+venv/
+env/
